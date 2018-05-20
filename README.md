@@ -2,7 +2,7 @@
 
 ## React v16.2
 
-![](./react-v16.2/react-component-lifecyble.png)
+![](./react-v16.2/react-component-lifecycle.png)
 
 ## React v16.3
 
