@@ -1,4 +1,4 @@
-# react-component-lifecycle
+# React Component Lifecycle Diagram
 
 ## React v16.2
 
