@@ -1,10 +1,10 @@
 # React Component Lifecycle Diagram
 
-## React v16.2
+## for React v16.2
 
 ![](./react-v16.2/react-component-lifecycle.png)
 
-## React v16.3
+## for React v16.3
 
 TBD
 
