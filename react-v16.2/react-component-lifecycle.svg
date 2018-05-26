@@ -43,7 +43,7 @@
 </g>
 <g>
 	<rect x="494.8" y="285.5" class="st1" width="309.7" height="12.7"/>
-	<text transform="matrix(1 0 0 1 521.8582 295.8296)" class="st2 st3">shouldComponentUpdate(nextProps, nextState)</text>
+	<text transform="matrix(1 0 0 1 521.8586 295.8296)" class="st2 st3">shouldComponentUpdate(nextProps, nextState)</text>
 	<path class="st0" d="M810.4,311.5H488.8c-4,0-7.2-3.2-7.2-7.2v-24.8c0-4,3.2-7.2,7.2-7.2h321.7c4,0,7.2,3.2,7.2,7.2v24.8
 		C817.6,308.2,814.4,311.5,810.4,311.5z"/>
 </g>
@@ -145,7 +145,7 @@
 		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 505.4315 328.7128)" class="st2 st3">* When True is returned</text>
+<text transform="matrix(1 0 0 1 599.7011 328.7128)" class="st2 st3">* True</text>
 <g>
 	<g>
 		<line class="st0" x1="447.6" y1="292.8" x2="470.4" y2="292.8"/>
